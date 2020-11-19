@@ -1,0 +1,91 @@
+{
+  "message": [
+    {
+      "remaining_orders": [
+        {
+          "buy_or_sell": "매수",
+          "order_id": 17156,
+          "ordered_at": "2020-09-01T00:00:01Z",
+          "ordered_quantity": "68569.2690",
+          "price": "5227.4000",
+          "product": "BTCS",
+          "product_id": 6,
+          "remaining_quantity": "67765.9190"
+        },
+        {
+          "buy_or_sell": "매수",
+          "order_id": 56718,
+          "ordered_at": "2020-09-01T00:01:25Z",
+          "ordered_quantity": "61547.1390",
+          "product": "BTCS",
+          "product_id": 6,
+          "remaining_quantity": "61547.1390"
+        },
+        {
+          "buy_or_sell": "매도",
+          "order_id": 56717,
+          "ordered_at": "2020-09-01T00:06:43Z",
+          "ordered_quantity": "17.9600",
+          "price": "5232.9000",
+          "product": "BTCS",
+          "product_id": 6,
+          "remaining_quantity": "17.9600"
+        },
+        {
+          "buy_or_sell": "매수",
+          "order_id": 17154,
+          "ordered_at": "2020-09-01T00:12:36Z",
+          "ordered_quantity": "70323.9940",
+          "price": "1690.5000",
+          "product": "SUNS",
+          "product_id": 1,
+          "remaining_quantity": "70323.9940"
+        },
+        {
+          "buy_or_sell": "매수",
+          "order_id": 56716,
+          "ordered_at": "2020-09-01T00:25:38Z",
+          "ordered_quantity": "40032.7670",
+          "price": "1690.3000",
+          "product": "SUNS",
+          "product_id": 1,
+          "remaining_quantity": "40032.7670"
+        }
+      ],
+      "traded_orders": [
+        {
+          "buy_or_sell": "매수",
+          "price": "5227.4000",
+          "product": "BTCS",
+          "product_id": 6,
+          "traded_at": "2020-10-10T00:01:45Z",
+          "traded_quantity": "0.3700"
+        },
+        {
+          "buy_or_sell": "매수",
+          "price": "5227.4000",
+          "product": "BTCS",
+          "product_id": 6,
+          "traded_at": "2020-10-10T00:01:58Z",
+          "traded_quantity": "5.4700"
+        },
+        {
+          "buy_or_sell": "매도",
+          "price": "1690.5000",
+          "product": "SUNS",
+          "product_id": 1,
+          "traded_at": "2020-10-12T13:34:33Z",
+          "traded_quantity": "69.0700"
+        },
+        {
+          "buy_or_sell": "매도",
+          "price": "5232.6000",
+          "product": "BTCS",
+          "product_id": 6,
+          "traded_at": "2020-10-12T16:19:37Z",
+          "traded_quantity": "31.7000"
+        }
+      ]
+    }
+  ]
+}

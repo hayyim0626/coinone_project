@@ -1,0 +1,41 @@
+{
+  "coin_list": [
+    {
+      "icon": "https://cdn.pixabay.com/photo/2016/11/05/20/08/sunflower-1801284_960_720.png",
+      "coin_name": "썬쓰",
+      "coin_code": "SUNS",
+      "product_id": 1,
+      "quantity": 251.0,
+      "coin_balance": 251.0,
+      "available_coin": 20,
+      "average_buying_price": {
+        "price__avg": 1000.0
+      },
+      "buying_price": 1000.0,
+      "current_price": 1000.0,
+      "profit_rate": 0
+    },
+    {
+      "icon": "https://cdn.pixabay.com/photo/2012/04/24/12/33/circle-39783_960_720.png",
+      "coin_name": "방탄코인쓰",
+      "coin_code": "BTCS",
+      "product_id": 6,
+      "quantity": 10.0,
+      "coin_balance": 251.0,
+      "available_coin": 5,
+      "average_buying_price": {
+        "price__avg": 1000.0
+      },
+      "buying_price": 1000.0,
+      "current_price": 1000.0,
+      "profit_rate": 0
+    }
+  ],
+  "total_asset": 2285594804.0,
+  "won_balance": 2285333804.0,
+  "coin_balance": 261000.0,
+  "total_buy_price": 261000.0,
+  "profit": -47.4,
+  "profit_rate": -5,
+  "available_balance": 2000000
+}

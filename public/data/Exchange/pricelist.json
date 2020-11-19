@@ -1,0 +1,94 @@
+{
+  "listdata": [
+    {
+      "abbreviation_name": "YWC",
+      "full_name": "예원코인",
+      "price_now": 545000,
+      "change": 10.5,
+      "traded_money": 12800000000000000,
+      "is_wishlist": false,
+      "product_id": 2
+    },
+    {
+      "abbreviation_name": "YCC",
+      "full_name": "예찬코인",
+      "price_now": 545000,
+      "change": 10.5,
+      "traded_money": 12800000000000000,
+      "is_wishlist": false,
+      "product_id": 3
+    },
+    {
+      "abbreviation_name": "BJC",
+      "full_name": "병진코인",
+      "price_now": 545000,
+      "change": 10.5,
+      "traded_money": 12800000000000000,
+      "is_wishlist": false,
+      "product_id": 4
+    },
+    {
+      "abbreviation_name": "SJC",
+      "full_name": "수정코인",
+      "price_now": 545000,
+      "change": 10.5,
+      "traded_money": 12800000000000000,
+      "is_wishlist": false,
+      "product_id": 5
+    },
+    {
+      "abbreviation_name": "JSC",
+      "full_name": "지선코인",
+      "price_now": 545000,
+      "change": 10.5,
+      "traded_money": 12800000000000000,
+      "is_wishlist": false,
+      "product_id": 7
+    },
+    {
+      "abbreviation_name": "MSC",
+      "full_name": "무쌑코인",
+      "price_now": 545000,
+      "change": -30.5,
+      "traded_money": 12800000000000000,
+      "is_wishlist": false,
+      "product_id": 8
+    },
+    {
+      "abbreviation_name": "WDC",
+      "full_name": "위코드코인",
+      "price_now": 545000,
+      "change": -10.5,
+      "traded_money": 12800000000000000,
+      "is_wishlist": false,
+      "product_id": 9
+    },
+    {
+      "abbreviation_name": "KKC",
+      "full_name": "ㅋㅋㅋ",
+      "price_now": 545000,
+      "change": 10.5,
+      "traded_money": 12800000000000000,
+      "is_wishlist": false,
+      "product_id": 12
+    },
+    {
+      "abbreviation_name": "SBC",
+      "full_name": "새벽코인",
+      "price_now": 545000,
+      "change": -50.5,
+      "traded_money": 5800000000000,
+      "is_wishlist": false,
+      "product_id": 10
+    },
+    {
+      "abbreviation_name": "RDC",
+      "full_name": "레듀스코인",
+      "price_now": 545000,
+      "change": 10.5,
+      "traded_money": 12800000000000000,
+      "is_wishlist": false,
+      "product_id": 11
+    }
+  ]
+}

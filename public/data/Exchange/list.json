@@ -1,0 +1,36 @@
+{
+  "message": [
+    {
+      "abbreviation_name": "SUNS",
+      "change": "-0.01775358030536158125221919754",
+      "change_price": "-0.3000",
+      "full_name": "썬쓰",
+      "high": "1690.8000",
+      "image_url": "https://cdn.pixabay.com/photo/2016/11/05/20/08/sunflower-1801284_960_720.png",
+      "is_wishlist": false,
+      "low": "1689.2000",
+      "market": "Growth",
+      "price_now": "1689.8000",
+      "product_id": 1,
+      "today_opening_price": "1690.1000",
+      "today_volume": "114975.8400",
+      "traded_money": "194316120.81800000"
+    },
+    {
+      "abbreviation_name": "BTCS",
+      "change": "0.009559498317528296115019883757",
+      "change_price": "0.5000",
+      "full_name": "방탄코인쓰",
+      "high": "5232.6000",
+      "image_url": "https://cdn.pixabay.com/photo/2018/08/30/12/24/bitcoin-3642042_960_720.png",
+      "is_wishlist": true,
+      "low": "5227.4000",
+      "market": "Main",
+      "price_now": "5230.4000",
+      "product_id": 6,
+      "today_opening_price": "5229.9000",
+      "today_volume": "127473.6620",
+      "traded_money": "666725609.63330000"
+    }
+  ]
+}

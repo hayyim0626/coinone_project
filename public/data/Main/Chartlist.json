@@ -1,0 +1,39 @@
+ {
+     "data" : [
+    {
+        "name": "XPN",
+        "corName": "판테온X",
+        "currentValue": "52.06",
+        "change": "+1.11%",
+        "volume": "10,789백만"
+    },
+    {
+        "name": "KVI",
+        "corName": "케이브이아이",
+        "currentValue": "9.982",
+        "change": "-3.88%",
+        "volume": "10,780백만"
+    },
+    {
+        "name": "BTC",
+        "corName": "비트코인",
+        "currentValue": "12,486,000",
+        "change": "-0.44%",
+        "volume": "10,301백만"
+    },
+    {
+        "name": "ISDT",
+        "corName": "아이스타더스트",
+        "currentValue": "18.37",
+        "change": "-0.49%^",
+        "volume": "9,854백만"
+    },
+    {
+        "name": "LMCH",
+        "corName": "라탐캐시",
+        "currentValue": "18.36",
+        "change": "-0.37",
+        "volume": "9,812백만"
+    }
+]
+}
